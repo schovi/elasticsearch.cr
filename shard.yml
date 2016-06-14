@@ -1,0 +1,7 @@
+name: elasticsearch
+version: 0.1.0
+
+authors:
+  - David Schovanec <david@schovi.cz>
+
+license: MIT
